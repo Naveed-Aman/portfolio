@@ -1,0 +1,157 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.formp  {
+    cursor: pointer;
+    background-color: rgb(238, 126, 21);
+    padding: 0%;
+    margin: 0%;
+}
+
+.formp fieldset {
+    padding: 10px;
+    border-radius: 90px;
+}
+
+.formp legend {
+    margin: 0% auto;
+}
+
+.formp legend img {
+    width: 80px;
+    height: 80px;
+    border-radius: 30%;
+}
+
+.a {
+    text-align: left;
+    text-decoration: underline;
+
+    padding-bottom: 20px;
+}
+
+.b {
+    padding: 20px;
+    color: rgb(140, 49, 224);
+    border-bottom-style: double;
+    border-radius: 50px;
+}
+
+.c {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: monospace;
+    border-style: double;
+    border-radius: 50px;
+    height: 50px;
+    background-color: rgb(230, 220, 188);
+}
+
+.d {
+    color: rgb(110, 110, 179);
+}
+
+.f {
+    margin: 20px auto;
+}
+
+.f label {
+    display: block;
+    margin: 10px 0;
+}
+
+.f input {
+    width: 70%;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    border: 2px solid rgba(50, 8, 128, 0.616);
+}
+
+.g {
+    margin: 20px auto;
+}
+
+.g label {
+    display: block;
+    margin: 10px 0;
+}
+
+.g input {
+    width: 70%;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    border: 2px solid rgba(52, 17, 116, 0.616);
+}
+
+.fset {
+    text-align: center;
+    background-color: rgb(222, 211, 233);
+    background-image: url(./High_resolution_wallpaper_background_ID_77701786526.jpg);
+}
+
+.h {
+    margin: 20px auto;
+
+}
+
+.h label {
+    display: block;
+    margin: 10px 0;
+}
+
+.h input {
+    margin: 10px;
+    width: 70%;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    border: 2px solid rgba(52, 20, 112, 0.616);
+}
+
+.h div {
+    margin-left: 180px;
+    width: 70%;
+    display: flex;
+}
+
+.j {
+    margin: 20px auto;
+}
+
+.j label {
+    display: block;
+    margin: 5px 0;
+}
+
+.j select {
+    width: 40%;
+    outline: none;
+    padding: 10px;
+    border-radius: 40px;
+    border: 2px solid rgba(50, 8, 128, 0.616);
+}
+
+.formp button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 0;
+    width: 80%;
+    padding: 15px;
+    border: none;
+    background-color: rgb(52, 127, 226);
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+}
+.k{
+    color: rgb(119, 94, 10);
+text-align: center;
+
+text-align: justify
+
+
+}
